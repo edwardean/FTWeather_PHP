@@ -1,0 +1,6 @@
+{
+    "services": {
+		"stockQuote": "http://localhost/learnphp/FacadePHPServer/stockQuote_v1.php",
+		"weather": "http://localhost/learnphp/FacadePHPServer/weather_v1.php"
+    }
+}
